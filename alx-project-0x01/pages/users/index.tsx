@@ -29,4 +29,5 @@ export async function getStaticProps() {
   };
 }
 
-export default UsersPage;
+const Users = UsersPage;
+export default Users;
